@@ -1,0 +1,86 @@
+[+] https://wpastra.com/pricing/?utm_source=header -> utm_source = Reflected
+[+] https://wpastra.com/pricing/?utm_source=header -> utm_source = Reflected
+[+] https://store.brainstormforce.com/login/?_gl=1*1b81cpz*_gcl_au*NTcwMjA4ODMwLjE3MjUzNDQzOTc.*_ga*MTgzMzg4MjkzNC4xNzA5NzIyNTkw*_ga_G6V0H9TJPC*MTczMTkzMTQwMy4xNzguMS4xNzMxOTMxNzUwLjYwLjAuMA..*_ga_C5XCE5232W*MTczMTkzMTQwMy43MS4xLjE3MzE5MzE3NTAuNjAuMC4w*_ga_XL385MQ7Q7*MTczMTkzMTQwMy40MS4xLjE3MzE5MzE3NTAuNjAuMC4w -> _gl = Reflected
+[+] https://wpastra.com/pricing/?utm_source=header -> utm_source = Reflected
+[+] https://wpastra.com/pricing/?utm_source=header -> utm_source = Reflected
+[+] https://wpastra.com/pricing/?utm_source=home&utm_medium=hero -> utm_source = Reflected
+[+] https://wpastra.com/pricing/?utm_source=home&utm_medium=hero -> utm_medium = Reflected
+[+] https://wpastra.com/website-templates/?utm_source=home -> utm_source = Reflected
+[+] https://wpastra.com/website-templates/?page-builder=gutenberg -> page-builder = Reflected
+[+] https://wpastra.com/website-templates/?page-builder=beaver-builder -> page-builder = Reflected
+[+] https://wpastra.com/user-reviews/?utm_source=home -> utm_source = Reflected
+[+] https://wpastra.com/woocommerce/?utm_source=home&utm_medium=woo -> utm_source = Reflected
+[+] https://wpastra.com/woocommerce/?utm_source=home&utm_medium=woo -> utm_medium = Reflected
+[+] https://wpastra.com/woocommerce/?utm_source=home&utm_medium=woo-features -> utm_source = Reflected
+[+] https://wpastra.com/woocommerce/?utm_source=home&utm_medium=woo-features -> utm_medium = Reflected
+[+] https://www.youtube.com/watch?v=k6fppThePl4&list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L -> v = Reflected
+[+] https://www.youtube.com/watch?v=k6fppThePl4&list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L -> list = Reflected
+[+] https://wpastra.com/pricing/?utm_source=home&utm_medium=footer -> utm_source = Reflected
+[+] https://wpastra.com/pricing/?utm_source=home&utm_medium=footer -> utm_medium = Reflected
+[+] https://zipwp.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale -> utm_source = Reflected
+[+] https://zipwp.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale -> utm_medium = Reflected
+[+] https://zipwp.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale -> utm_campaign = Reflected
+[+] https://cartflows.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale -> utm_source = Reflected
+[+] https://cartflows.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale -> utm_medium = Reflected
+[+] https://cartflows.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale -> utm_campaign = Reflected
+[+] https://prestoplayer.com/?utm_source=website&utm_medium=footer&utm_campaign=ro -> utm_source = Reflected
+[+] https://prestoplayer.com/?utm_source=website&utm_medium=footer&utm_campaign=ro -> utm_medium = Reflected
+[+] https://prestoplayer.com/?utm_source=website&utm_medium=footer&utm_campaign=ro -> utm_campaign = Reflected
+[+] https://suremembers.com/?utm_source=website&utm_medium=footer&utm_campaign=ro -> utm_source = Reflected
+[+] https://suremembers.com/?utm_source=website&utm_medium=footer&utm_campaign=ro -> utm_medium = Reflected
+[+] https://suremembers.com/?utm_source=website&utm_medium=footer&utm_campaign=ro -> utm_campaign = Reflected
+[+] https://latepoint.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale -> utm_source = Reflected
+[+] https://latepoint.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale -> utm_medium = Reflected
+[+] https://latepoint.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale -> utm_campaign = Reflected
+[+] https://www.youtube.com/playlist?list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L&disable_polymer=true -> list = Not Reflected
+[+] https://www.youtube.com/playlist?list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L&disable_polymer=true -> disable_polymer = Reflected
+[+] https://wpastra.com/vip-priority-support/?utm_source=astra-website&utm_medium=footer&utm_campaign=vip-priority-support -> utm_source = Reflected
+[+] https://wpastra.com/vip-priority-support/?utm_source=astra-website&utm_medium=footer&utm_campaign=vip-priority-support -> utm_medium = Reflected
+[+] https://wpastra.com/vip-priority-support/?utm_source=astra-website&utm_medium=footer&utm_campaign=vip-priority-support -> utm_campaign = Reflected
+[+] https://brainstormforce.com/join/?_gl=1*1ati2em*_gcl_au*MTEyOTQ2MDM0NC4xNzI1ODY4Mjk4*_ga*NjM5NjE4MDc0LjE3MTAyNDE4NTk.*_ga_G6V0H9TJPC*MTczMTk4ODEwNi41MTEuMS4xNzMxOTkwOTI2LjE3LjAuMA..*_ga_C5XCE5232W*MTczMTk4ODEwNi4zMS4xLjE3MzE5OTA5MjYuMTcuMC4w*_ga_XL385MQ7Q7*MTczMTk4ODEwNi41LjEuMTczMTk5MDkyNi4xNy4wLjA. -> _gl = Reflected
+[+] https://www.youtube.com/playlist?list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L&disable_polymer=true -> list = Not Reflected
+[+] https://www.youtube.com/playlist?list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L&disable_polymer=true -> disable_polymer = Reflected
+
+--- Results ---
+https://wpastra.com/pricing/?utm_source=header :: utm_source -> Reflected
+https://wpastra.com/pricing/?utm_source=header :: utm_source -> Reflected
+https://store.brainstormforce.com/login/?_gl=1*1b81cpz*_gcl_au*NTcwMjA4ODMwLjE3MjUzNDQzOTc.*_ga*MTgzMzg4MjkzNC4xNzA5NzIyNTkw*_ga_G6V0H9TJPC*MTczMTkzMTQwMy4xNzguMS4xNzMxOTMxNzUwLjYwLjAuMA..*_ga_C5XCE5232W*MTczMTkzMTQwMy43MS4xLjE3MzE5MzE3NTAuNjAuMC4w*_ga_XL385MQ7Q7*MTczMTkzMTQwMy40MS4xLjE3MzE5MzE3NTAuNjAuMC4w :: _gl -> Reflected
+https://wpastra.com/pricing/?utm_source=header :: utm_source -> Reflected
+https://wpastra.com/pricing/?utm_source=header :: utm_source -> Reflected
+https://wpastra.com/pricing/?utm_source=home&utm_medium=hero :: utm_source -> Reflected
+https://wpastra.com/pricing/?utm_source=home&utm_medium=hero :: utm_medium -> Reflected
+https://wpastra.com/website-templates/?utm_source=home :: utm_source -> Reflected
+https://wpastra.com/website-templates/?page-builder=gutenberg :: page-builder -> Reflected
+https://wpastra.com/website-templates/?page-builder=beaver-builder :: page-builder -> Reflected
+https://wpastra.com/user-reviews/?utm_source=home :: utm_source -> Reflected
+https://wpastra.com/woocommerce/?utm_source=home&utm_medium=woo :: utm_source -> Reflected
+https://wpastra.com/woocommerce/?utm_source=home&utm_medium=woo :: utm_medium -> Reflected
+https://wpastra.com/woocommerce/?utm_source=home&utm_medium=woo-features :: utm_source -> Reflected
+https://wpastra.com/woocommerce/?utm_source=home&utm_medium=woo-features :: utm_medium -> Reflected
+https://www.youtube.com/watch?v=k6fppThePl4&list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L :: v -> Reflected
+https://www.youtube.com/watch?v=k6fppThePl4&list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L :: list -> Reflected
+https://wpastra.com/pricing/?utm_source=home&utm_medium=footer :: utm_source -> Reflected
+https://wpastra.com/pricing/?utm_source=home&utm_medium=footer :: utm_medium -> Reflected
+https://zipwp.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale :: utm_source -> Reflected
+https://zipwp.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale :: utm_medium -> Reflected
+https://zipwp.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale :: utm_campaign -> Reflected
+https://cartflows.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale :: utm_source -> Reflected
+https://cartflows.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale :: utm_medium -> Reflected
+https://cartflows.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale :: utm_campaign -> Reflected
+https://prestoplayer.com/?utm_source=website&utm_medium=footer&utm_campaign=ro :: utm_source -> Reflected
+https://prestoplayer.com/?utm_source=website&utm_medium=footer&utm_campaign=ro :: utm_medium -> Reflected
+https://prestoplayer.com/?utm_source=website&utm_medium=footer&utm_campaign=ro :: utm_campaign -> Reflected
+https://suremembers.com/?utm_source=website&utm_medium=footer&utm_campaign=ro :: utm_source -> Reflected
+https://suremembers.com/?utm_source=website&utm_medium=footer&utm_campaign=ro :: utm_medium -> Reflected
+https://suremembers.com/?utm_source=website&utm_medium=footer&utm_campaign=ro :: utm_campaign -> Reflected
+https://latepoint.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale :: utm_source -> Reflected
+https://latepoint.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale :: utm_medium -> Reflected
+https://latepoint.com/?utm_source=Astra%20Footer&utm_medium=Website&utm_campaign=Sale :: utm_campaign -> Reflected
+https://www.youtube.com/playlist?list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L&disable_polymer=true :: list -> Not Reflected
+https://www.youtube.com/playlist?list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L&disable_polymer=true :: disable_polymer -> Reflected
+https://wpastra.com/vip-priority-support/?utm_source=astra-website&utm_medium=footer&utm_campaign=vip-priority-support :: utm_source -> Reflected
+https://wpastra.com/vip-priority-support/?utm_source=astra-website&utm_medium=footer&utm_campaign=vip-priority-support :: utm_medium -> Reflected
+https://wpastra.com/vip-priority-support/?utm_source=astra-website&utm_medium=footer&utm_campaign=vip-priority-support :: utm_campaign -> Reflected
+https://brainstormforce.com/join/?_gl=1*1ati2em*_gcl_au*MTEyOTQ2MDM0NC4xNzI1ODY4Mjk4*_ga*NjM5NjE4MDc0LjE3MTAyNDE4NTk.*_ga_G6V0H9TJPC*MTczMTk4ODEwNi41MTEuMS4xNzMxOTkwOTI2LjE3LjAuMA..*_ga_C5XCE5232W*MTczMTk4ODEwNi4zMS4xLjE3MzE5OTA5MjYuMTcuMC4w*_ga_XL385MQ7Q7*MTczMTk4ODEwNi41LjEuMTczMTk5MDkyNi4xNy4wLjA. :: _gl -> Reflected
+https://www.youtube.com/playlist?list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L&disable_polymer=true :: list -> Not Reflected
+https://www.youtube.com/playlist?list=PL1kzJGWGPrW9cXgkkxUErOBKTB5PVz6-L&disable_polymer=true :: disable_polymer -> Reflected

