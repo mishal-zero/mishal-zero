@@ -1,6 +1,0 @@
-https://api.searchsg.wogaa.sg/v1/searchconfig.js?clientId=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro
-https://assets.wogaa.sg/scripts/wogaa.js?url=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro
-https://chat.vica.gov.sg/api/v1/unleash/proxy?sessionId=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro&appName=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro&environment=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro
-http://www.moe.gov.sg/faq?categoryid=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro&faqid=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro
-http://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro
-http://www.moe.gov.sg/schoolfinder?journey=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro&q=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro&fq=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro&fq=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro&fl=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro&sort=https://d1p7ei23gdm0v0rcc9fgvihnvasvrfdjt.oast.pro
